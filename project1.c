@@ -3,7 +3,7 @@
 int main()
 {
    int first_var,second_var, add, subtract, multiply;
-   first_var
+   first_var=8;
    second_var
    float divide;
  
