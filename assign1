@@ -5,7 +5,7 @@ int main()
    int first_var,second_var, add, subtract, multiply;
    first_var=5;
    second_var=3;
-   float divide
+   float divide;
  
    add = first_var + second_var;
    subtract = first_var - second_var;
@@ -17,5 +17,5 @@ int main()
    printf("Multiplication = %d\n", multiply);
    printf("Division = %.3f\n", divide);
    
-   return 0;
+   return 
 }
